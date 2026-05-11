@@ -1,0 +1,14 @@
+SuperUser: 
+Username - admin
+Password - 1002
+
+User:
+customer1 
+Password - test2468
+
+customer2
+Password - 123456test
+
+Delivery Crew:
+john
+Password - test123456
